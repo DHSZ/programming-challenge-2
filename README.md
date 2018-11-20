@@ -10,10 +10,9 @@ A, B, C, E, F, H, I, J, L, N, O, P, S, U, Y
 
 ![Possible seven segment letters](https://i.imgur.com/nJtc4cD.png "List of possible letters")
 
-
 ## How to get started
 
-All of the code you need to get started can be found on GitHub - [if you do not have a GitHub account click here to sign up (it's free)](https://github.com/join?source=experiment-header-dropdowns-home). 
+All of the code you need to get started can be found on GitHub - [if you do not have a GitHub account click here to sign up (it's free)](https://github.com/join?source=experiment-header-dropdowns-home).
 
 To get your own personal copy of the starter code, please use the following link: [get programming challenge 2 code](https://classroom.github.com/a/r8qbzdl1).
 
