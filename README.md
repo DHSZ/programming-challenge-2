@@ -14,7 +14,7 @@ A, B, C, E, F, H, I, J, L, N, O, P, S, U, Y
 
 All of the code you need to get started can be found on GitHub - [if you do not have a GitHub account click here to sign up (it's free)](https://github.com/join?source=experiment-header-dropdowns-home).
 
-To get your own personal copy of the starter code, please use the following link: [get programming challenge 2 code](https://classroom.github.com/a/r8qbzdl1).
+To get your own personal copy of the starter code, please use the following link: [get programming challenge 2 code](https://classroom.github.com/a/R9kaYWX1).
 
 You are free to either use GitHub to upload your code or send it as an email to [programmingchallenge@dchigh-suzhou.cn](mailto:programmingchallenge@dchigh-suzhou.cn).
 
