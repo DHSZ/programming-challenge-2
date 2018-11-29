@@ -8,4 +8,4 @@ def longest_word():
     
     return longest_word
 
-print(longest_word)
+print(longest_word())
