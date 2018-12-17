@@ -1,5 +1,12 @@
 # DHSZ Programming Challenge 2
 
+> The DHSZ Programming Challenge 2 is now closed, any new entries will not count.
+> Congratulations to the following winning students:
+> - Charles J.
+> - Andy Z.
+> - Harrison Z.
+> - Harry L.
+
 ## Seven segment displays
 
 Old style LCD displays are known as seven segment displays, these are the type of screens you will see on your calculator displaying the numbers. It is possible to write words using these types of displays but not all letters can be represented.
